@@ -16,7 +16,7 @@ gem 'puma'
 gem 'figaro'
 gem "font-awesome-rails"
 gem "animate-rails"
-
+gem 'friendly_id'
 
 group :development, :test do
   gem 'rspec-rails'
